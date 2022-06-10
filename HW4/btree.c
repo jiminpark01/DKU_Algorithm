@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>     // srand, rand 함수가 포함되어 있는 헤더파일
 #include <stdbool.h>
-#include <Windows.h>
-//#include <time.h>       // time 함수가 포함되어 있는 헤더파일
+#include <time.h>       // time 함수가 포함되어 있는 헤더파일
 #include "Btree.h"
 
 // 검색
